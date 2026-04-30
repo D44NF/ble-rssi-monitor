@@ -73,9 +73,3 @@ Unknown     | -80
 🧠 Idea
 
 This project was built as a simple BLE visualization tool to understand how Bluetooth signal strength can be used for proximity estimation.
-
-⸻
-
-📄 License
-
-MIT License (optional)
