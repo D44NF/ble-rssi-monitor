@@ -14,11 +14,6 @@ A Bluetooth Low Energy (BLE) scanner with a real-time UI that displays nearby de
 
 ⸻
 
-🖥️ Preview
-
-(Add a screenshot here of your app UI)
-
-⸻
 
 📦 Requirements
 
